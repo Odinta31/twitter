@@ -3,9 +3,12 @@
 
 
 #monitor_servers.sh  
-    dataBase_backup.sh 
-    deploy_app.sh 
-    access_account.sh  
-    user_management.sh  
-    file_management.sh
-deploy to staging 
+dataBase_backup.sh 
+deploy_app.sh 
+access_account.sh  
+user_management.sh  
+file_management.sh
+deploy to stagingj environment
+echo "good job".
+tested and accepted
+ 
