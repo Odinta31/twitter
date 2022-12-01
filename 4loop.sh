@@ -1,6 +1,6 @@
 
 
-#USER MANAGEMENT COMMANDS
+#USER MANAGEMENT COMMANDS users
 	passwords for user 	Sandra = adminS31
 				Dandiel = adminD35
 
